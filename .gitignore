@@ -1,0 +1,21 @@
+# Local recordings, workspaces and generated output
+/private/
+/media/
+/exports/
+/.obsidian/
+/.quartz-cache/
+/public/
+.DS_Store
+.env
+.env.*
+*.wav
+*.aif
+*.aiff
+*.flac
+*.mp3
+*.m4a
+*.mid
+*.midi
+*.lrc
+*.mp4
+*.mov
