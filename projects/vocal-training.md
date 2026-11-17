@@ -41,5 +41,5 @@ MIDI 60 means C4. Beat zero is the start of the selected section, after any coun
 
 - Load the G preset and hear or display E4, E4, G4, A4, G4. Transpose to E and check C♯4, C♯4, E4, F♯4, E4. The held note lasts four beats in both cases.
 - Check onset timing against the click and test silence, background noise and octave errors before using pitch feedback for grading. Pitchy and CREPE are comparison candidates in the [tool notes](../research/tools-and-demos.md).
-- Rerun baseline exercises and verify settings, error handling and mic teardown. Then test one IOS/iPadOS browser, Pixel and a desktop before relying on the public link. Confirm permission denial leaves the user able to retry. Track the full matrix as devices become available.
+- Rerun baseline exercises and verify settings, error handling and mic teardown. Then test one iOS/iPadOS browser, Pixel and a desktop before relying on the public link. Confirm permission denial leaves the user able to retry. Track the full matrix as devices become available.
 - Save a result and verify that it can be read alongside a [practice session](../templates/practice-session.md).
